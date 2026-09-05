@@ -1,9 +1,9 @@
-nomes: Guilherme, Kauan, Bruno, Carlos
+Carlos
+Kauan
+Bruno
+Guilherme 
+
 
 Projeto para a atividade
 
-Carlos
-
-Kauan
-
-Bruno
+O objetivo é praticar o ciclo básico de Git e GitHub: criar um repositório compartilhado, trabalhar de forma colaborativa e registrar a contribuição de cada integrante através dos commits.
