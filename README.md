@@ -1,7 +1,7 @@
 Carlos
 Kauan
 Bruno
-Guilherme 
+Guilherme Bezerra da Silva
 
 
 Projeto para a atividade
