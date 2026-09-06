@@ -1,6 +1,6 @@
 Carlos
 Kauan
-Bruno
+Bruno Toledo Cardeal da Costa
 Guilherme Bezerra da Silva
 
 
